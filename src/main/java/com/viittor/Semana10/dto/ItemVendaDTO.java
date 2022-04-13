@@ -19,4 +19,7 @@ public class ItemVendaDTO {
 
     private Integer quantidadeVendida;
 
+    public ItemVendaDTO() {
+
+    }
 }

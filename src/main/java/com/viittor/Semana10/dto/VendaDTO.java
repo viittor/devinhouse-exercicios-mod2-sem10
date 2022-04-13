@@ -18,4 +18,8 @@ public class VendaDTO {
     private UsuarioDTO vendedor;
 
     private List<ItemVendaDTO> itens;
+
+    public VendaDTO() {
+
+    }
 }
