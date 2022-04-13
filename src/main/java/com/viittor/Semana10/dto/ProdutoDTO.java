@@ -21,4 +21,11 @@ public class ProdutoDTO {
 
     private BigDecimal precoSugerido;
 
+    private BigDecimal precoMinimo;
+
+    private BigDecimal precoMaximo;
+
+    public ProdutoDTO() {
+
+    }
 }
